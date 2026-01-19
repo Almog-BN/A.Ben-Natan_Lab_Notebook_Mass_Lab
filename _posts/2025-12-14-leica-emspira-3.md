@@ -26,7 +26,7 @@ Press the **ON/OFF button** at the back of the microscope.
 
 Wait for the LED to turn **white (ready)** and for the live image to appear on the monitor.
 
-![LED status indicators](https://github.com/almog-bn/A.Ben-Natan_Lab_Notebook_Mass_Lab/blob/main/images/emspira_led_status.jpg?raw=true)
+![LED status indicators]({{site.baseurl}}/images/The%20Leica%20Emspira%20%202.0.png)
 
 ---
 

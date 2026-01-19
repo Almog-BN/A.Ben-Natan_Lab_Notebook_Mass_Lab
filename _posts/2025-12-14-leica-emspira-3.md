@@ -22,7 +22,8 @@ The microscope software can be installed on any PC and can be downloaded from th
 
 Press the **ON/OFF button** at the back of the microscope.
 
-![On/Off button location](https://github.com/Almog-BN/A.Ben-Natan_Lab_Notebook_Mass_Lab/blob/master/images/The%20Leica%20Emspira%20%201.0.png)
+![On/Off button location]
+![https://github.com/Almog-BN/A.Ben-Natan_Lab_Notebook_Mass_Lab/blob/master/images/The%20Leica%20Emspira%20%201.0.png]
 
 Wait for the LED to turn **white (ready)** and for the live image to appear on the monitor.
 

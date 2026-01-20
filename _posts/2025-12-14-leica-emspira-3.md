@@ -6,7 +6,6 @@ categories: [equipment, manuals]
 tags: [Leica, microscope, imaging, MassLab]
 ---
 
-# The Leica Emspira 3 and YOU
 
 The **Leica Emspira 3 microscope** is a digital microscope that allows detailed observation of samples.  
 The Leica Emspira 3 has **no eyepiece**; instead, the visual image is displayed on a nearby screen.
@@ -35,7 +34,6 @@ Wait for the LED to turn **white (ready)** and for the live image to appear on t
 To protect the microscope, samples should be placed on a **Petri plate**.  
 Make sure the sample lies **flat and horizontal** on the plate.
 
-![Sample placement on Petri plate](https://github.com/almog-bn/A.Ben-Natan_Lab_Notebook_Mass_Lab/blob/main/images/emspira_sample_petri.jpg?raw=true)
 
 ---
 
@@ -45,7 +43,6 @@ Make sure the sample lies **flat and horizontal** on the plate.
 
 Use the **focus knobs** to bring the sample into sharp view.
 
-![Focus knobs](https://github.com/almog-bn/A.Ben-Natan_Lab_Notebook_Mass_Lab/blob/main/images/emspira_focus_knobs.jpg?raw=true)
 
 ---
 
@@ -56,7 +53,6 @@ Rotate the **zoom knob** to change magnification.
 **Click-stop mode**:  
 Push the slider toward the knob to enable fixed zoom steps (recommended for measurements).
 
-![Zoom control](https://github.com/almog-bn/A.Ben-Natan_Lab_Notebook_Mass_Lab/blob/main/images/emspira_zoom.jpg?raw=true)
 
 ---
 
@@ -72,7 +68,7 @@ To switch between illumination modes:
 - Press the **middle button**
 - Use the **arrow buttons** to change light direction
 
-![Illumination controls](https://github.com/almog-bn/A.Ben-Natan_Lab_Notebook_Mass_Lab/blob/main/images/emspira_illumination.jpg?raw=true)
+![Illumination controls]({{site.baseurl}}/images/The%20Leica%20Emspira%20%203.0.png)
 
 ---
 
@@ -90,7 +86,6 @@ To switch between illumination modes:
 - **Camera settings**: use the **– / +** button to switch between automatic and manual modes  
 - **Measurement**: measurements can be performed on a **live image only** (freeze mode available)
 
-![Image capture interface](https://github.com/almog-bn/A.Ben-Natan_Lab_Notebook_Mass_Lab/blob/main/images/emspira_capture.jpg?raw=true)
 
 ---
 

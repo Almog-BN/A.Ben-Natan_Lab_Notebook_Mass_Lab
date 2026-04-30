@@ -34,7 +34,7 @@ Ben Natan, A., & Shashar N (2025). A Short Review of Strategies for Augmenting O
 
 Ben Natan, A., Chernihovsky, N., & Shashar, N. (2025). Augmenting Coral Growth on Breakwaters: A Shelter-Based Approach. Coasts, 5(2), 18. DOI: https://doi.org/10.3390/coasts5020018 
 
-Ben Natan, A., & Shashar N (2025). Integrating an environmental approach into coastal defense structures – “Hod Ha’iam” (accepted)
+Ben Natan, A., & Shashar N (2025). Integrating an environmental approach into coastal defense structures – “Hod Ha’iam” (Book)
 
 ### Confrences
 

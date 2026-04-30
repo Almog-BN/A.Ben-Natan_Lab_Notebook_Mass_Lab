@@ -4,6 +4,14 @@ title: Curriculum
 permalink: /Curriculum /
 ---
 
+#### <centered> *Almog Ben-Natan*
+
+---
+
+### About myself
+
+Male, 33, married. Marine biologist. Diving instructor. Published novelist and literature critic. 
+
 ### More Information
 
 [Mass Lab Website](https://sites.google.com/marsci.haifa.ac.il/masslab/home?authuser=0/)  
@@ -12,29 +20,25 @@ permalink: /Curriculum /
 
 Coral Biomineralization and Physiology 
 
-Tel - Out of Univ: +972-0-8768088
+Tel - Out of Univ:+972-0-8768088
 
 Room: 107, Multipurpose Building
 
 Email: almog100560@gmail.com
 
-### About myself
-
-Male, 33, married. Marine biologist. Diving instructor. Published novelist and literature critic. 
-
 ### Education
 
-2017-2022	B.Sc.: Ben Gurion University of the Negev, Beer-Sheva, 
+2017-2022	**B.Sc.:** *Ben Gurion University of the Negev, Beer-Sheva* 
 
-2023-2024	M.Sc.: Ben Gurion University of the Negev, Beer-Sheva, 
+2023-2024	**M.Sc.:** *Ben Gurion University of the Negev, Beer-Sheva* 
 
 ### Publications 
 
-Ben Natan, A., & Shashar N (2025). A Short Review of Strategies for Augmenting Organism Recruitment on Coastal Defense Structures – J. Mar. Sci. Eng. 13(1), 95. DOI: https://doi.org/10.3390/jmse13010095
+Ben Natan, A., & Shashar N (2025). *A Short Review of Strategies for Augmenting Organism Recruitment on Coastal Defense Structures* – J. Mar. Sci. Eng. 13(1), 95. DOI: https://doi.org/10.3390/jmse13010095
 
-Ben Natan, A., Chernihovsky, N., & Shashar, N. (2025). Augmenting Coral Growth on Breakwaters: A Shelter-Based Approach. Coasts, 5(2), 18. DOI: https://doi.org/10.3390/coasts5020018 
+Ben Natan, A., Chernihovsky, N., & Shashar, N. (2025). *Augmenting Coral Growth on Breakwaters: A Shelter-Based Approach*. Coasts, 5(2), 18. DOI: https://doi.org/10.3390/coasts5020018 
 
-Ben Natan, A., & Shashar N (2025). Integrating an environmental approach into coastal defense structures – “Hod Ha’iam” (Book)
+Ben Natan, A., & Shashar N (2025). *Integrating an environmental approach into coastal defense structures* – “Hod Ha’iam” (Book)
 
 ### Confrences
 

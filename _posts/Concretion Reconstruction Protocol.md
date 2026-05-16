@@ -65,7 +65,39 @@
 3. Export models and figures for further archaeological and ecological analyses.
 
 #
+## 6. Data 
+Following spatial reconstruction and mapping, fragment-associated information should be systematically organized in a table format for future analytical integration.
+| Location | Live cover (Y/N) | Width | Length | Name | Date |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+
+#
 ## Notes
 - Fragment placement is interpretive and based on morphological correspondence.
 - Reconstruction should prioritize physical fit consistency over complete surface coverage.
 - Marker-free infrared scanning reduces interference with fragile or irregular fragment surfaces.
+
+#
+
+## Related References
+
+### Archaeological Fragment Reconstruction
+- [Computational techniques for virtual reconstruction of archaeological artifacts](https://www.nature.com/articles/s40494-023-01102-3)
+
+- [Reassembling 3D Thin Fragments of Unknown Geometry in Cultural Heritage](https://isprs-annals.copernicus.org/articles/II-5/393/2014/)
+
+- [Virtual Archaeologist: Assembling the Past](https://cgi.di.uoa.gr/~graphics/Downloads/papers/journals/p13.pdf)
+
+#
+## Instrumentation and Software Resources and protocols
+
+- [FreeScan Combo User Manual](https://support.shining3d.com/en/support/solutions/articles/60000856993-user-manual-for-freescan-combo-combo-)
+
+- [SHINING 3D FreeScan Combo User Manual](https://www.manualslib.com/manual/3051861/Shining-3d-Freescan-Combo.html)
+
+- [FreeScan Combo Technical Brochure](https://pdf.directindustry.com/pdf/shining-3d/multifunctional-metrology-laser-3d-scanner-freescan-combo/66288-1033325.html)

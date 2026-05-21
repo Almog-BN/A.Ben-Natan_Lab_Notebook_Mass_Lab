@@ -70,8 +70,10 @@ date: 2026-05-20
 3. Export models and figures for further archaeological and ecological analyses.
 
 #
-## 6. Data 
+## 6. Data
+
 Following spatial reconstruction and mapping, fragment-associated information should be systematically organized in a table format for future analytical integration.
+
 | Location | Live cover (Y/N) | Width | Length | Name | Date |
 |---|---|---|---|---|---|
 |  |  |  |  |  |  |
@@ -79,7 +81,6 @@ Following spatial reconstruction and mapping, fragment-associated information sh
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-
 
 #
 ## Notes

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Curriculum 
-permalink: /Curriculum /
+title: CV
+permalink: /about/
 ---
 
 <h1 align="center">Almog Ben Natan</h1>

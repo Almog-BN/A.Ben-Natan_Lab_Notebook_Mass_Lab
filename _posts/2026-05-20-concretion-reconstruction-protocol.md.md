@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Concretion Reconstruction Protocol"
+date: 2026-05-20
+---
 
 <h1 align="center">Concretion Reconstruction Protocol (Using a 1:1 Replica Model)</h1>
 

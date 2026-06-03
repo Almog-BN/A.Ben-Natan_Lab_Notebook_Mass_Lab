@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 --- 
+=======
+
+---
+>>>>>>> 807563b48bfef31f31068b5e2897fdd4d7d52a8b
 layout: post
 title: "Primer Design and Phylogenetic Analysis of Nori (*Pyropia yezoensis*) Using the *rbcL* Gene"
 author: "Almog Ben Natan"

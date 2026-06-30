@@ -2,6 +2,7 @@
 layout: post
 title: "Photophysiology of Inte-R-tidal Macroalgae"
 author: "Almog Ben Natan"
+date: 2026-06-29
 ---
 
 # Photophysiology of Inte-R-tidal Macroalgae
